@@ -1,0 +1,4 @@
+# Ignore F360 folders in both mods
+
+OSSM PCB Cover/Files/F360/
+OSSM Motor Cover/Files/F360
